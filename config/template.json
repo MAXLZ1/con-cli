@@ -1,0 +1,68 @@
+[
+  {
+    "framework": "vue",
+    "variants": [
+      {
+        "desc": "Mobile template based on Vue3, Vant3.x(https://vant-contrib.gitee.io/vant/v3/#/zh-CN/home).",
+        "platform": "mobile",
+        "ui": "vant",
+        "language": "JavaScript",
+        "color": "#4bcffa"
+      },
+      {
+        "desc": "Mobile template based on TypeScript, Vue3, Vant3.x(https://vant-contrib.gitee.io/vant/v3/#/zh-CN/home).",
+        "platform": "mobile",
+        "ui": "vant",
+        "language": "TypeScript",
+        "color": "#0be881"
+      },
+      {
+        "desc": "PC template based on Vue3, Ant Design Vue2.x(https://2x.antdv.com/docs/vue/introduce-cn/).",
+        "platform": "pc",
+        "ui": "ant",
+        "language": "JavaScript",
+        "color": "#ffc048"
+      },
+      {
+        "desc": "PC template based on TypeScript, Vue3, Ant Design Vue2.x(https://2x.antdv.com/docs/vue/introduce-cn/).",
+        "platform": "pc",
+        "ui": "ant",
+        "language": "TypeScript",
+        "color": "#ff5e57"
+      }
+    ]
+  },
+  {
+    "framework": "react",
+    "variants": [
+      {
+        "desc": "Mobile template based on React(v17), Ant Design Mobile3.0(https://next.mobile.ant.design/components/badge).",
+        "platform": "mobile",
+        "ui": "ant",
+        "language": "JavaScript",
+        "color": "#0fbcf9"
+      },
+      {
+        "desc": "Mobile template based on TypeScript, React(v17), Ant Design Mobile3.0(https://next.mobile.ant.design/components/badge).",
+        "platform": "mobile",
+        "ui": "ant",
+        "language": "TypeScript",
+        "color": "#e056fd"
+      },
+      {
+        "desc": "PC template based on React(v17), Ant Design4.x(https://ant.design/docs/react/getting-started-cn).",
+        "platform": "pc",
+        "ui": "ant",
+        "language": "JavaScript",
+        "color": "#686de0"
+      },
+      {
+        "desc": "PC template based on TypeScript, React(v17), Ant Design4.x(https://ant.design/docs/react/getting-started-cn).",
+        "platform": "pc",
+        "ui": "ant",
+        "language": "TypeScript",
+        "color": "#f0932b"
+      }
+    ]
+  }
+]
